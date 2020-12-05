@@ -1,0 +1,3 @@
+echo "Honor Code: I hereby certify that I have completed this exam on my own without any help from anyone else. I understand that the only sources of authorized information in this exam are (i) the course textbook, (ii) the material that is posted on Blackboard or on repl.it lecture notes for this class, and (iii) any study notes handwritten by myself. I have not used, accessed or received any information from any other unauthorized source in taking this exam. The effort in this exam thus belongs completely to me."
+
+echo [Type your name here]
