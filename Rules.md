@@ -10,7 +10,7 @@
 
 6. You will have (30x4+45) minutes, meaning 30 minutes for the first 4 questions and 45 minutes for the last question. 
 
-7. You will receive an email from us with the link to accept the assignment every half an hour. Please check your email when we notify you on zoom and start working on the question. Do not forget to commit and push your repl when you finish before the deadline.
+7. You will receive an email from us with the link to accept the assignment every half an hour. Please check your email when we notify you on zoom and start working on the question. Do not forget to commit and push your repl when you finish before the deadline. Late commits will not be accepted.
 
 Good luck!
  
